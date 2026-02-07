@@ -1,4 +1,4 @@
 # first--sample-repository
 This is my first repository
 <br>
-author = neha sharma
+author = neha sharma and i am a quick learner
